@@ -5,7 +5,7 @@
 var SITE_CONFIG = {
 
   // 応募フォーム（Googleフォーム）のURL
-  applyUrl: "https://forms.gle/jZsgj4yS1Vuzz44J9",
+  applyUrl: "https://forms.gle/cnQ9EZe7VQQAnfhi9",
 
   // 大学・お取引先向けの問い合わせフォーム
   // 空のままなら applyUrl と同じフォームが使われます
